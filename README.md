@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-I’m a PhD student at New Jersey Institute of Technology, happy with work under the supervise of Prof. Amy K. Hoover. I am "on the pipeline" to find an optimization algorithm that facilitate the co-evolving process of problem and solution population at the same time (or iterative).
+I’m a PhD student at New Jersey Institute of Technology, happy to work under the supervise of Prof. Amy K. Hoover.
+I am "on the pipeline" to find an optimization algorithm that facilitate the co-evolving process of problem and solution population at the same time (or iterative).
 
 Have a good day!
 
